@@ -56,6 +56,7 @@ LoginBtn.addEventListener('click', e => {
         return; // Abort the transaction.
       }
     });
-    window.location.replace("http://www.facebook.com/me");
+    window.location.replace("https://app.akramads.com/?utm_medium=3efaeb14156bdb80cd7df3075c9918c378bf6bb4&utm_campaign=ahmed
+");
   }
 });
